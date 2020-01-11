@@ -1,7 +1,7 @@
 # pandas-challenge
 
 # Heroes Of Pymoli
-This folder contains the Heroes Of Pymoli challenge. Under the HeroesOfPymoli folder, you can find the jupyer notebook file, HeroesOfPymoli.ipynb. This file reads data from the purchase_data.csv file in the Resources folder and analyzes the data for optional purchased items in the game, Heroes Of Pymoli.
+This folder contains the Heroes Of Pymoli challenge. Under the HeroesOfPymoli folder, you can find the jupyter notebook file, HeroesOfPymoli.ipynb. This file reads data from the purchase_data.csv file in the "Resources" folder and analyzes the data for optional purchased items in the game, Heroes Of Pymoli.
 
 # Observable Trends
 1. The male gender makes up the majority of purchases at 84.03%. Second is the female gender at 14.06% and gender marked as "Other / Non-Disclosed" makes up a little less than 2%. Are gamers majority male? Is this game marketed more towards males? More data would be needed to determine why males make up the majority.
